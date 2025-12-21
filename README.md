@@ -12,7 +12,7 @@ A Streamlit-based web application that provides clear, multilingual medicine ins
 - Visual icons and audio guidance
 
 ## Technologies Used
- This demo uses synthetic data. In production, we integrate Google Cloud Vision API for prescription scanning, Firestore for medicine data, and Translation API for real-time language support. Python for Coding.
+ This demo uses synthetic data. Gemini for coding purpose and google translate for translation of languages and google for medicine data
 [watch Demo Video](https://youtu.be/Ik3GizOV7sY?si=qou1Pw6AVMBmznA5) 
 
 
